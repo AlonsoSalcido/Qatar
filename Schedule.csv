@@ -33,8 +33,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 32,Portugal vs. Uruguay,Portugal,Uruguay,"Monday, Nov. 28",2 p.m. (EST),1,2
 33,Netherlands vs. Qatar,Netherlands,Qatar,"Tuesday, Nov. 29",10 a.m. (EST),1,2
 34,Ecuador vs. Senegal,Ecuador,Senegal,"Tuesday, Nov. 29",10 a.m. (EST),3,3
-35,Wales vs. England,Wales,England,"Tuesday, Nov. 29",2 p.m. (EST),,
-36,Iran vs. United States,Iran,United States,"Tuesday, Nov. 29",2 p.m. (EST),,
+35,Wales vs. England,Wales,England,"Tuesday, Nov. 29",2 p.m. (EST),3,3
+36,Iran vs. United States,Iran,United States,"Tuesday, Nov. 29",2 p.m. (EST),3,1
 37,Tunisia vs. France,Tunisia,France,"Wednesday, Nov. 30",10 a.m. (EST),,
 38,Australia vs. Denmark,Australia,Denmark,"Wednesday, Nov. 30",10 a.m. (EST),,
 39,Poland vs. Argentina,Poland,Argentina,"Wednesday, Nov. 30",2 p.m. (EST),,
@@ -49,8 +49,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 48,Serbia vs. Switzerland,Serbia,Switzerland,"Friday, Dec. 2",2 p.m. (EST),,
 49,Group A- First Place,Netherlands,,,,1,
 50,Group A- Second Place,Senegal,,,,1,
-51,Group B- First Place,England,,,,,
-52,Group B- Second Place,United States,Wales,,,,
+51,Group B- First Place,England,,,,1,
+52,Group B- Second Place,United States,,,,1,
 53,Group C- First Place,,,,,,
 54,Group C- Second Place,,,,,,
 55,Group D- First Place,,,,,,

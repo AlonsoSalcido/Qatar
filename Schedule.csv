@@ -35,8 +35,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 34,Ecuador vs. Senegal,Ecuador,Senegal,"Tuesday, Nov. 29",10 a.m. (EST),3,3
 35,Wales vs. England,Wales,England,"Tuesday, Nov. 29",2 p.m. (EST),3,3
 36,Iran vs. United States,Iran,USA,"Tuesday, Nov. 29",2 p.m. (EST),3,1
-37,Tunisia vs. France,Tunisia,France,"Wednesday, Nov. 30",10 a.m. (EST),,
-38,Australia vs. Denmark,Australia,Denmark,"Wednesday, Nov. 30",10 a.m. (EST),,
+37,Tunisia vs. France,Tunisia,France,"Wednesday, Nov. 30",10 a.m. (EST),2,2
+38,Australia vs. Denmark,Australia,Denmark,"Wednesday, Nov. 30",10 a.m. (EST),1,1
 39,Poland vs. Argentina,Poland,Argentina,"Wednesday, Nov. 30",2 p.m. (EST),,
 40,Saudi Arabia vs. Mexico,Saudi Arabia,Mexico,"Wednesday, Nov. 30",2 p.m. (EST),,
 41,Croatia vs. Belgium,Croatia,Belgium,"Thursday, Dec. 1",10 a.m. (EST),,
@@ -53,8 +53,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 52,Group B- Second Place,USA,,,,1,
 53,Group C- First Place,,,,,,
 54,Group C- Second Place,,,,,,
-55,Group D- First Place,,,,,,
-56,Group D- Second Place,,,,,,
+55,Group D- First Place,France,,,,1,
+56,Group D- Second Place,Australia,,,,1,
 57,Group E- First Place,,,,,,
 58,Group E- Second Place,,,,,,
 59,Group F- First Place,,,,,,

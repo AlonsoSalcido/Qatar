@@ -39,8 +39,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 38,Australia vs. Denmark,Australia,Denmark,"Wednesday, Nov. 30",10 a.m. (EST),1,1
 39,Poland vs. Argentina,Poland,Argentina,"Wednesday, Nov. 30",2 p.m. (EST),3,2
 40,Saudi Arabia vs. Mexico,Saudi Arabia,Mexico,"Wednesday, Nov. 30",2 p.m. (EST),3,3
-41,Croatia vs. Belgium,Croatia,Belgium,"Thursday, Dec. 1",10 a.m. (EST),,
-42,Canada vs. Morocco,Canada,Morocco,"Thursday, Dec. 1",10 a.m. (EST),,
+41,Croatia vs. Belgium,Croatia,Belgium,"Thursday, Dec. 1",10 a.m. (EST),2,0
+42,Canada vs. Morocco,Canada,Morocco,"Thursday, Dec. 1",10 a.m. (EST),3,3
 43,Japan vs. Spain,Japan,Spain,"Thursday, Dec. 1",2 p.m. (EST),,
 44,Costa Rica vs. Germany,Costa Rica,Germany,"Thursday, Dec. 1",2 p.m. (EST),,
 45,South Korea vs. Portugal,South Korea,Portugal,"Friday, Dec. 2",10 a.m. (EST),,
@@ -57,8 +57,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 56,Group D- Second Place,Australia,,,,1,
 57,Group E- First Place,,,,,,
 58,Group E- Second Place,,,,,,
-59,Group F- First Place,,,,,,
-60,Group F- Second Place,,,,,,
+59,Group F- First Place,Morrocco,,,,1,
+60,Group F- Second Place,Croatia,,,,1,
 61,Group G- First Place,,,,,,
 62,Group G- Second Place,,,,,,
 63,Group H- First Place,,,,,,

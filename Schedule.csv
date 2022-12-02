@@ -43,8 +43,8 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 42,Canada vs. Morocco,Canada,Morrocco,"Thursday, Dec. 1",10 a.m. (EST),3,3
 43,Japan vs. Spain,Japan,Spain,"Thursday, Dec. 1",2 p.m. (EST),1,3
 44,Costa Rica vs. Germany,Costa Rica,Germany,"Thursday, Dec. 1",2 p.m. (EST),3,6
-45,South Korea vs. Portugal,South Korea,Portugal,"Friday, Dec. 2",10 a.m. (EST),,
-46,Ghana vs. Uruguay,Ghana,Uruguay,"Friday, Dec. 2",10 a.m. (EST),,
+45,South Korea vs. Portugal,South Korea,Portugal,"Friday, Dec. 2",10 a.m. (EST),1,3
+46,Ghana vs. Uruguay,Ghana,Uruguay,"Friday, Dec. 2",10 a.m. (EST),3,2
 47,Cameroon vs. Brazil,Cameroon,Brazil,"Friday, Dec. 2",2 p.m. (EST),,
 48,Serbia vs. Switzerland,Serbia,Switzerland,"Friday, Dec. 2",2 p.m. (EST),,
 49,Group A- First Place,Netherlands,,,,1,
@@ -61,6 +61,6 @@ game_Id,Game,Home,Away,Date,Time,Win,Goals
 60,Group F- Second Place,Croatia,,,,1,
 61,Group G- First Place,,,,,,
 62,Group G- Second Place,,,,,,
-63,Group H- First Place,,,,,,
-64,Group H- Second Place,,,,,,
+63,Group H- First Place,Portugal,,,,1,
+64,Group H- Second Place,South Korea,,,,1,
 65,Total Number of Goals,,,,,,
